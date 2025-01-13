@@ -23,7 +23,7 @@ while True:
     # Use the waitKey() function to monitor the keyboard for user input.
     # key = cv2.waitKey(0) will display the window indefinitely until any key is pressed.
     # key = cv2.waitKey(1) will display the window for 1 ms
-    key = cv2.waitKey(0)
+    key = cv2.waitKey(1)
 
     # The return value of the waitKey() function indicates which key was pressed.
     # You can use this feature to check if the user selected the `q` key to quit the video stream.
