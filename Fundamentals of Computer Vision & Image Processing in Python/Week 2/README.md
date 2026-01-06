@@ -3,4 +3,5 @@
 
 
 # Exercise
-Create a Face Annotation Tool
+1	Create a Face Annotation Tool
+2	Resize Image using Trackbar
